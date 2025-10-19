@@ -1,6 +1,7 @@
 # NextLevelfood - NextJS
 
 **NextLevelfood** is a full-stack meal sharing application built with **Next.js**. It allows users to share their favorite meals, upload images, and view a list of meals contributed by others. The app uses **SQLite** as a lightweight database and features a clean, responsive design.
+Check out the live demo here: [NextLevelfood on Vercel](https://nextflavor.vercel.app/)
 
 ## Features
 
